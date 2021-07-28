@@ -1,7 +1,9 @@
 <p align="center">
  <img width="400px" src="https://github.com/gncgabriel/gncgabriel/blob/main/Images/DevImage.png?raw=true"/>
 </p>
-<h6 align="center">Gabriel Nascimento Cardoso</h6>
+
+<h3 align="center">Gabriel Nascimento Cardoso</h3>
+
 ## About me:
 * <img width="18px" src="https://github.com/gncgabriel/gncgabriel/blob/main/Images/BrasilFlag.png?raw=true" /> Brazilian
 * <img width="18px" src="https://github.com/gncgabriel/gncgabriel/blob/main/Images/ESLogo.png?raw=true" />  Graduating in Software Enginnering From PUC Minas
