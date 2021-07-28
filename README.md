@@ -1,4 +1,4 @@
-<p align="center"><h1> Gabriel - GitHub</h1></p>
+<p align="center"><h1 align="center"> Gabriel - GitHub</h1></p>
 <p align="center">
  <img width="400px" src="https://github.com/gncgabriel/gncgabriel/blob/main/Images/DevImage.png?raw=true"/>
 </p>
