@@ -1,6 +1,7 @@
 # <center>Welcome to my GitHub</center>
-
-<center> <img width="500px" src="https://github.com/gncgabriel/gncgabriel/blob/main/Images/DevImage.png?raw=true"/> </center>
+<p align="center">
+ <img width="500px" src="https://github.com/gncgabriel/gncgabriel/blob/main/Images/DevImage.png?raw=true"/>
+</p>
 
 ## About me:
 * <img width="18px" src="https://github.com/gncgabriel/gncgabriel/blob/main/Images/BrasilFlag.png?raw=true" /> Brazilian
