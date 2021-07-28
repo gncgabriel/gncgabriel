@@ -1,6 +1,6 @@
-# <center>Gabriel - GitHub</center>
+<p align="center"><b> Gabriel - GitHub</b></p>
 <p align="center">
- <img width="500px" src="https://github.com/gncgabriel/gncgabriel/blob/main/Images/DevImage.png?raw=true"/>
+ <img width="400px" src="https://github.com/gncgabriel/gncgabriel/blob/main/Images/DevImage.png?raw=true"/>
 </p>
 
 ## About me:
