@@ -1,6 +1,3 @@
-<p align="center">
- <img width="400px" src="https://github.com/gncgabriel/gncgabriel/blob/main/Images/DevImage.png?raw=true"/>
-</p>
 
 <h3 align="center">Gabriel Nascimento Cardoso</h3>
 
